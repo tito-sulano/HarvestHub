@@ -5,6 +5,7 @@ from tensorflow import keras
 import tensorflow as tf
 import io
 import os
+from utils import * 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 # from google.cloud import storage
@@ -39,7 +40,7 @@ def predict():
     predictions = model.predict(input_arr)
     result_index = np.argmax(predictions)
 
-    class_names = model.training_dataset.class_names
+    class_names = training_dataset.class_names
     predicted_class = class_names[result_index]
     data = {"prediction": str(predicted_class)}
 
