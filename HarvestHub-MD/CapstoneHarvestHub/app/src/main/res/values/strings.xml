@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CapstoneHarvestHub</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="Login">Login</string>
+    <string name="dont_have_account">Do not have an account?\nClick here to sign up</string>
+    <string name="name">Name</string>
+    <string name="SignUp">Signup</string>
+    <string name="already_have_account">Already have an account?\nClick here to login</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="empty" />
+    <string name="search">Search</string>
+    <string name="pilihan">Pilihan</string>
+    <string name="back">Back</string>
+    <string name="logout">Keluar</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_detail">Detail</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_keranjang">Keranjang</string>
+    <string name="harga">Rp. %d</string>
+</resources>

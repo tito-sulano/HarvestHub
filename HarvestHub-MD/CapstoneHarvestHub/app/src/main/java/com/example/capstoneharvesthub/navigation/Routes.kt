@@ -1,0 +1,28 @@
+package com.example.capstoneharvesthub.navigation
+
+sealed class Routes(val route: String) {
+    object ROUTE_SPLASH : Routes("splash")
+    object ROUTE_LOGIN : Routes("login")
+    object ROUTE_LOGIN_OPTIONS : Routes("login_options")
+    object ROUTE_SIGNUP_OPTIONS : Routes("signup_options")
+    object ROUTE_SIGNUP_PERUSAHAAN : Routes("signup_perusahaan")
+    object ROUTE_SIGNUP_PEMBELI : Routes("signup_pembeli")
+    object ROUTE_SIGNUP_PETANI : Routes("signup_petani")
+    object ROUTE_HOME_PERUSAHAAN : Routes("home_perusahaan")
+    object ROUTE_HOME_PEMBELI: Routes("home_pembeli")
+    object ROUTE_HOME_PETANI : Routes("home_petani")
+    object ROUTE_DETAIL_PRODUCT_PERUSAHAAN : Routes("detail_product_perusahaan")
+    object ROUTE_DETAIL_PRODUCT_PETANI : Routes("detail_product_petani")
+    object ROUTE_DETAIL_PRODUCT_PEMBELI : Routes("detail_product_pembeli")
+    object ROUTE_PROFILE_PERUSAHAAN : Routes("profile_perusahaan")
+    object ROUTE_UPDATE_PROFILE_PERUSAHAAN : Routes("update_profile_perusahaan")
+    object ROUTE_PROFILE_PETANI : Routes("profile_petani")
+    object ROUTE_UPDATE_PROFILE_PETANI : Routes("update_profile_petani")
+    object ROUTE_PROFILE_PEMBELI : Routes("profile_pembeli")
+    object ROUTE_UPDATE_PROFILE_PEMBELI : Routes("update_profile_pembeli")
+    object ROUTE_CART_PERUSAHAAN : Routes("cart_perusahaan")
+    object ROUTE_CART_PETANI : Routes("cart_petani")
+    object ROUTE_CART_PEMBELI : Routes("cart_pembeli")
+    object ROUTE_ADD_PRODUCT_PERUSAHAAN : Routes("add_product_perusahaan")
+    object ROUTE_ADD_PRODUCT_PETANI : Routes("add_product_petani")
+}
