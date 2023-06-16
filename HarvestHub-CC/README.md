@@ -1,4 +1,4 @@
-<h1>Cloud Computing Team</h1>
+<h1>HarvestHub Cloud Computing Team</h1>
 
 <p>Cloud computing enables the creation of useful APIs as intermediaries between different applications.</p>
 <ul>
