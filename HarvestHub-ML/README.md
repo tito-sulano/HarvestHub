@@ -4,3 +4,8 @@
 
 <li>Data set : https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition</li>
 
+<h3>Author</h3>
+<li>Krisna Bayu Meliala Institut  (Teknologi Telkom Purwokerto)</li>
+<li>Muhammad Adli Rahmat Solihin  ( Universitas Indonesia)</li>
+
+
