@@ -16,6 +16,9 @@
 <li>Cloud Sql</li>
 <li>Firestore</li>
 
+<h3>API Link</h3>
+<li>Deploy API Machine Learning : https://harvesthub-model-ml-wcoge3ju3a-et.a.run.app</li>
+
 <h3>Author</h3>
 <li>Tito Sulano (Universitas Sriwijaya)</li>
 <li>Yosep Setiawan  (Universitas Jenderal Achmad Yani)</li>
