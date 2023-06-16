@@ -17,8 +17,8 @@
 <li>Firestore</li>
 
 <h3>Author</h3>
-<li>Tito Sulano               (Universitas Sriwijaya)</li>
-<li>Yosep Setiawan            (Universitas Jenderal Achmad Yani)</li>
+<li>Tito Sulano (Universitas Sriwijaya)</li>
+<li>Yosep Setiawan  (Universitas Jenderal Achmad Yani)</li>
 <li>Evan Fajri Mulia Harahap  (Universitas Negeri Yogyakarta)</li>
 
 
