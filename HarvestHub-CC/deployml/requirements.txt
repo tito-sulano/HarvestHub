@@ -1,0 +1,7 @@
+Flask
+gunicorn
+tensorflow
+numpy
+pillow
+opencv-contrib-python-headless
+google-cloud-storage
